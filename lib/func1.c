@@ -4,4 +4,5 @@
 void func1()
 {
 	printf("This is func1 !!!  \n");
+	printf("ggggggggggggggg");
 }
