@@ -3,5 +3,5 @@
 
 void func2()
 {
-	printf("This is func2 ~~~~\n");
+	printf("This is func2 ~~~@@@@@~\n");
 }
